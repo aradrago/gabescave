@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="styles.css">
+<head>
+  <meta charset="UTF-8">
+  <title>Collection Center</title>
+</head>
+<body>
+<a href="../projects.html">← Back to Projects</a>
+  <h1>Collection Center</h1>
+ <p>I used some wood I found in the garbage to make some storage room. Unfortunately, I
+did not take many pictures of how it turned out.</p>
+
+<img src="../images/collectioncenter/P.jpg"
+  alt="Hydroponic System"
+  width="400" height"600">
+
+<img src="../images/collectioncenter/P1.jpg"
+  alt="Hydroponic System"
+  width="400" height"600">
+
+</body>
+</html>
