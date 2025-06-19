@@ -1,3 +1,12 @@
+nav a {
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+nav a:last-child {
+  margin-right: 0;
+}
+
 body {
   font-family: sans-serif;
   font-size: 20px;
